@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/SkeeFreeRespringHeader.webp" width="800" alt="Respring – Skee Free">
+  <img src="docs/images/SkeeBallFreeRespringHeader.webp" width="800" alt="Respring – Skee Free">
 </p>
 
 # Respring – Skee Free

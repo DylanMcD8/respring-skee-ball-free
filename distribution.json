@@ -9,7 +9,7 @@
   ],
   "port": "CompatibilityProbe",
   "project": "SkeeFree",
-  "header": "SkeeFreeRespringHeader.webp",
+  "header": "SkeeBallFreeRespringHeader.webp",
   "execution": "ARM/Thumb CPU interpreter with legacy iOS/Unity compatibility APIs; no JIT",
   "original_archive": "Original/Skee-Free.ipa"
 }
