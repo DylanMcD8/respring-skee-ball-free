@@ -1,0 +1,11 @@
+{
+  "input_archive_sha256": "e55e4997b10069f1a8610d3cc664591d55860248dec759a9fc1e88ef60c9c39c",
+  "public_archive_sha256": "14173d9969f5fad6f1a58bf7ba167a4e79708f3163a69ed99ce637611ecee04b",
+  "processing": "Payload-only ZIP, recompressed; signing/DRM sidecar and account metadata excluded. Remaining payload bytes preserved.",
+  "source": {
+    "source_url": "https://dn720707.ca.archive.org/0/items/iOSObscura/iOS%204/com.freeverse.skeeballfree/Skee%20Free-%28com.freeverse.skeeballfree%29-2.5-%28iOS_4.0%29-0127700f167f15634ed7763b0a5ab798.ipa",
+    "sha256": "e55e4997b10069f1a8610d3cc664591d55860248dec759a9fc1e88ef60c9c39c",
+    "bytes": 56951496,
+    "preserved_unmodified": true
+  }
+}

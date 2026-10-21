@@ -1,0 +1,15 @@
+{
+  "name": "Skee Free",
+  "version": "0.1",
+  "build": "3",
+  "bundle": "com.dylanmcdonald.skeefree",
+  "family": [
+    1,
+    2
+  ],
+  "port": "CompatibilityProbe",
+  "project": "SkeeFree",
+  "header": "SkeeFreeRespringHeader.webp",
+  "execution": "ARM/Thumb CPU interpreter with legacy iOS/Unity compatibility APIs; no JIT",
+  "original_archive": "Original/Skee-Free.ipa"
+}
